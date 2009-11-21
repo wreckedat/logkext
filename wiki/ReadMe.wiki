@@ -53,7 +53,7 @@ If you have changed your password or turned encryption on or off, you must delet
 
 Use the logKextClient "list" command to see where your logfile is, then quit logKextClient. Find the logfile using the path, and throw it in the trash. If you try to empty the trash, don't worry if it says "File is in use." After a while, you will be able to delete it.
 
-You can also delete the logfile from the terminal if you know how ("rm <path>") When asked to override permissions, type "yes". 
+You can also delete the logfile from the terminal if you know how ({{{ "rm <path>" }}}) When asked to override permissions, type "yes". 
 
 
 *Note: For security reasons, it is recommended that you change your password from the default setting.*
